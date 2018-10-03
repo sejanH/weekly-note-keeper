@@ -1,0 +1,24 @@
+{
+    "name": "electronapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "3.3.7",
+        "electron": "^3.0.2",
+        "electron-db": "^0.8.1",
+        "jquery": "^3.3.1",
+        "popper.js": "^1.14.1",
+        "vue": "^2.5.17",
+        "vue-router": "^3.0.1",
+        "vuex": "^3.0.1"
+    },
+    "devDependencies": {
+        "simple-scrollbar": "^0.4.0"
+    }
+}
